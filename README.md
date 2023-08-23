@@ -4,7 +4,7 @@ O nome é Gaspar, sou oceanógrafo de formação, entusiasta de cartografia, mat
 
 Meu primeiro contato com a programação foi usando MatLab e Python para análise de dados, ainda como oceanógrafo. 
 
-Hoje sou estudante novamente: matemática e ciência da computação na UFABC.
+Hoje sou estudante novamente: matemática e ciência da computação. 
 
 Foco meus estudos em temas práticos e tecnologias voltadas a dados e ao desenvolvimento de software:
 
