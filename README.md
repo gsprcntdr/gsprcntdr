@@ -1,6 +1,6 @@
 **Olá!**
 
-O nome é Gaspar, sou oceanógrafo de formação, entusiasta de cartografia, matemática e jogos e **desenvolvedor de software back-end**.
+O nome é Gaspar, sou oceanógrafo de formação, entusiasta de cartografia, matemática e jogos.
 
 Meu primeiro contato com a programação foi usando MatLab e Python para análise de dados, ainda como oceanógrafo. 
 
